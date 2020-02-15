@@ -3,6 +3,6 @@
 
 int main(void)
 {
-  printf("Toute chose a un debut")
+  printf("Toute chose a un debut");
   return 0;
 }
